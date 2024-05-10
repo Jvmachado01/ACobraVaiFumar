@@ -5,7 +5,7 @@ altura = 1.74
 # String
 nome = "John"
 # boolean: True, False
-maior_de_idade = True
+isMaiorIdade = True
 # None representa valor nulo ou ausente
 valor = None
 # list: (sequência mutáveis de elemtnos)
@@ -17,7 +17,7 @@ alunoDicionario = {"nome": "John", "idade": 25, "altura": 1.74}
 # set: conjunto não ordenada de elementos únicos
 coresColecao = {"vermelho", "azul", "verde"}
 
-print("idade:", idade, "altura:", altura, "nome:", nome, "maior de idade:", maior_de_idade)
+print("idade:", idade, "altura:", altura, "nome:", nome, "maior de idade:", isMaiorIdade)
 print("Qual valor:", valor)
 print("list:", numerosList)
 print("tuple:", coordenadasTuple)
