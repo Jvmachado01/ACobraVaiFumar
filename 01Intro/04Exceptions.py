@@ -16,6 +16,8 @@ FloatingPointError             |                        |
                              OSError                    |
                                                       ...
 
+===> Ver hierarquia de Exception na doc oficial para melhores tratamentos.
+
 """
 
 # Exceções que geralmente precisam ser tratadas:
@@ -44,6 +46,4 @@ finally:
         arquivo.close()    
 
 print("Fim do programa")
-
-
 
